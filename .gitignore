@@ -1,0 +1,7 @@
+# Ignore Maven target directories
+**/target/
+# Ignore test output directories
+**/test-output/
+# Ignore dump files
+*.dump
+*.dumpstream
